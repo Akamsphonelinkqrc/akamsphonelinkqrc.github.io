@@ -1,7 +1,7 @@
 # Aka.ms/phonelinkqrc
 
 
-[![Aka.ms/phonelinkqrc](get-start.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)
+[![Aka.ms/phonelinkqrc](get-start.png)](https://computersolve.com/aka-ms-phonelinkqrc/)
 
 
 
