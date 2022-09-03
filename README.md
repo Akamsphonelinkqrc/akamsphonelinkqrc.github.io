@@ -1,7 +1,7 @@
 # Aka.ms/phonelinkqrc
 
 
-[![Aka.ms/phonelinkqrc](get-start.png)](https://computersolve.com/aka-ms-phonelinkqrc/)
+[![Aka.ms/phonelinkqrc](get-start.png)](https://icncomputer.com/aka-ms-phonelinkqrc/)
 
 
 
