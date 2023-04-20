@@ -1,4 +1,4 @@
-# Aka.ms/phonelinkqrc [![Analytics](https://www.googletagmanager.com/gtag/js?id=UA-265508435-1/readme.md)](https://github.com/Akamsphonelinkqrc/akamsphonelinkqrc.github.io)
+# Aka.ms/phonelinkqrc 
 
 
 
