@@ -1,4 +1,4 @@
-# Aka.ms/phonelinkqrc
+# Aka.ms/phonelinkqrc [![Analytics](https://akamsphonelinkqrc.github.io/UA-265508435-1/readme?pixel)](https://github.com/Akamsphonelinkqrc/akamsphonelinkqrc.github.io)
 
 
 [![Aka.ms/phonelinkqrc](get-start.png)](https://aakams-phonelinkqrc.com/recommendation/)
