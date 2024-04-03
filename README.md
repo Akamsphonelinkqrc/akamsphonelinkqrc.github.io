@@ -2,7 +2,7 @@
 
 
 
-[![Aka.ms/phonelinkqrc](get-start.png)](https://aakams-phonelinkqrc.com/recommendation/)
+[![Aka.ms/phonelinkqrc](get-start.png)](https://redir.activateprod.online)
 
 
 
